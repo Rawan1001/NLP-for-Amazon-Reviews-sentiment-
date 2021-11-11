@@ -1,1 +1,1 @@
-# NLP-for-Amazon-Rviews-sentiment-
+# NLP-for-Amazon-Reviews-sentiment-
