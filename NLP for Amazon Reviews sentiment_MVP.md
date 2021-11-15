@@ -26,6 +26,7 @@
 ## EDA graph:
 
 >This graph shows the number of reviews for each month during the perioed of 14 years. the dataset we have are during thr period form 2005 to 2018.
+<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://user-images.githubusercontent.com/90554959/141822071-f1193171-3d7e-4835-9b29-318088a93519.png">
 
 
 ## Future work:
